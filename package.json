@@ -1,9 +1,12 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "DraeySecs Blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "DraeySecs Cyber War Room",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Shabaz Draey <shabaz.draey@windowslive.com.com>",
+  "engines": {
+    "node": "18.9"
+    },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
